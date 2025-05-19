@@ -1,0 +1,6 @@
+__pycache__/
+.env
+*.pyc
+*.ipynb_checkpoints
+.conda/
+data/merged_mobiles_data.csv
