@@ -30,6 +30,3 @@ This is a chatbot built using LangChain and OpenAI that answers user questions b
 - `.env.example` – Environment variable template
 - `requirements.txt` – List of dependencies
 
-## Notes
-- Replace the sample data with your own CSV if needed.
-- Do not upload real or sensitive data to public repositories.
